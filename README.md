@@ -14,4 +14,4 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
  * `cdk diff`        compare deployed stack with current state
  * `cdk synth`       emits the synthesized CloudFormation template
 
- This project was generated the this blog post [Insider Secrets Of AWS CDK - The Base Stack](https://blog.phillipninan.com/insider-secrets-of-aws-cdk-the-base-stack)
+ This project was generated for this blog post [Insider Secrets Of AWS CDK - The Base Stack](https://blog.phillipninan.com/insider-secrets-of-aws-cdk-the-base-stack)
